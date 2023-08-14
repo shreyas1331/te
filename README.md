@@ -16,3 +16,7 @@ The Temperature Converter is a simple and user-friendly tool that allows you to 
 3.Swap Units: If you want to convert from, for example, Celsius to Fahrenheit, you can click the "Swap Units" button, and the input and output units will switch places.
 
 4.Reset: To start a new conversion, simply click the "Reset" button. This will clear the input field and reset the output values.
+
+
+<hr>
+## Thank you for choosing the Temperature Converter! We hope this tool simplifies your temperature conversion needs. If you find it useful, feel free to share it with your friends and colleagues. Enjoy hassle-free temperature conversion!
